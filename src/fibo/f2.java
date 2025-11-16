@@ -1,6 +1,6 @@
 package fibo;
 
-public class f
+public class f2
 {
 	static int a = 0, b = 1;
 	
